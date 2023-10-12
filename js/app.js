@@ -17,5 +17,3 @@ if (word === reverse){//-SE la parola dello user è ugaule alla parola al contra
 }else {                   //-ALTRIMENTI false
   console.log("false")
 }
-
-
