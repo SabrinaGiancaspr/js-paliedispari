@@ -8,4 +8,4 @@ Chiedere all’utente di inserire una parola Creare una funzione per capire se l
 -confrontiamo le due parole (word === (word.reverse))
 -SE la parola è uguale è true
   -ALTRIMENTI è false
-
+// creao variabile peril risultato
